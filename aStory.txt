@@ -1,0 +1,31 @@
+18:47 15-11-2023
+Day1-> i used my etch the sketch technique and i tweeked
+ it little and make turtle movement automatic
+ and by using WASD key to move it up down left right 
+
+19:23 17-11-2023
+Day2-> at this point my turtule can move aimlessly to the ends of infinity
+ i gave it a square defination and limited its move between 600 by 600 screen 
+using while loop which breaks if x_cor or y_cor exceeds it now i worked on 
+segment part which on increse in score will increas as well and will get added to 
+the segment list 
+
+23:43 18-11-2023
+Day3-> today i worked on food module where i gave defination on how food will 
+work for snake and will also increase score at this point i felt i need a separate 
+module for score board where score and game over will be displayed so i used 
+documention, found that we can use write() function to write on screen so 
+worked on it at this point i have 3 module main, food, scoreboard
+
+22:19 19-11-2023
+Day4-> today i worked on tail collison working on it i stuck on some logic error, 
+didnt know how to connet all the end where i have to end the game when collision happens 
+and game over has to be displayed all togather then i thought to make a sepreate module for snake
+so i did that where i defined everything from movement to segment but  still i am facing error
+
+00:57 21-11-2023
+Day5-> asked from friend about the error.....got some hint over logic and used class and inheritance  to 
+get my logics done and finally connecting every thing under same while loop and completed it today u can see time stamp 
+its mid night i am feeling so good seeing my game run smoothly, it was worth the hard work 
+
+
